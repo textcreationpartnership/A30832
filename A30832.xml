@@ -1,0 +1,322 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Bank-credit, or, The usefulness &amp; security of the bank of credit examined in a dialogue between a country gentleman and a London merchant.</title>
+         </titleStmt>
+         <extent>Approx. 36 KB of XML-encoded text transcribed from 12 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A30832</idno><idno type="EEBO-CITATION">12716094</idno>
+  <idno type="VID">66227</idno>
+  <idno type="EEBO-PROQUEST">2240973854</idno>
+  
+            <idno type="STC">Wing B646</idno>
+            <idno type="STC">ESTC R32544</idno>
+            <idno type="OCLC">12716094</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A30832)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 66227)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1030:7)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Bank-credit, or, The usefulness &amp; security of the bank of credit examined in a dialogue between a country gentleman and a London merchant.</title>
+               </titleStmt>
+               <extent>23 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by John Gain ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1683.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Credit --  England.</term>
+               <term type="topical_term">Banks and banking --  England.</term>
+               <term type="topical_term">Deposit banking.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-07 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2015-01 </date>
+            <label>John Latta </label>Sampled and proofread </change>
+         <change>
+            <date>2015-01 </date>
+            <label>John Latta</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:66227:1"/>
+            <pb facs="tcp:66227:1"/>
+            <p>Bank-Credit: OR THE <hi>Vsefulness &amp; Security</hi> Of the <hi>Bank</hi> of <hi>Credit</hi> Examined; IN A DIALOGUE BETWEEN A <hi>Country</hi> GENTLEMAN AND A <hi>London</hi> MERCHANT.</p>
+            <p>
+               <hi>London,</hi> Printed by <hi>John Gain,</hi> Living in the Upper <hi>Moor-Fields</hi> next to the <hi>Flying-Horse,</hi> 1683.</p>
+         </div>
+      </front>
+      <body>
+         <div type="dialogue">
+            <pb facs="tcp:66227:2"/>
+            <pb n="3" facs="tcp:66227:2"/>
+            <head>Bank-Credit, OR The <hi>Usefulness</hi> and <hi>Security</hi> of the <hi>Bank</hi> of <hi>Credit</hi> Examined, &amp;c.</head>
+            <sp>
+               <speaker>Gentleman.</speaker>
+               <p>
+                  <seg rend="decorInit">Y</seg>OU are happily met, <hi>Sir,</hi> to satisfy an earnest desire that I have to be instructed, con<g ref="char:EOLhyphen"/>cerning the <hi>Bank</hi> of <hi>Credit,</hi> so much, and so long talked of. We in the Country are told, that the Benefits will reach to us, and almost to every man. I would be glad to know the Nature of it, and intreat that favour from you: which you are much better able to gratify me in than most men, if it be true, as I am told, that you have seen the account of the <hi>Constitution</hi> of the <hi>Bank,</hi> and considered the Reasons upon which the Advantages and Security of it do de<g ref="char:EOLhyphen"/>pend.</p>
+            </sp>
+            <sp>
+               <pb n="4" facs="tcp:66227:3"/>
+               <speaker>Merchant.</speaker>
+               <p>I have both frequently seen and considered the Constitu<g ref="char:EOLhyphen"/>tion of the <hi>Bank,</hi> and seriously examined and weighed it, of which at the next Coffee-House I am ready to give you an Account, whither, if you please, let us walk.</p>
+            </sp>
+            <sp>
+               <speaker>Gentleman.</speaker>
+               <p>With all my heart. And now we are Seated, give me leave first to enquire who are the Persons that undertake this great Design.</p>
+            </sp>
+            <sp>
+               <speaker>Merchant.</speaker>
+               <p>They are Persons very well known, and Gentlemen of much Worth and Honour, <hi>Viz.</hi> Sir <hi>Edward Abney,</hi> Sir <hi>John Lawrence,</hi> Sir <hi>Benjamin Newland,</hi> Sir <hi>Henry Johnson, George Pitt,</hi> Esq; and several others, considerable for Reputation and Estates.</p>
+            </sp>
+            <sp>
+               <speaker>Gentleman.</speaker>
+               <p>I thought there had been no body concerned in it, but Dr. <hi>Chamberlen</hi> and Mr. <hi>Murray.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Merchant.</speaker>
+               <p>It is very true, that the Dr. and Mr. <hi>Murray</hi> did attempt something of this nature in the City, but tho it was inge<g ref="char:EOLhyphen"/>niously contrived, and would have been greatly to the Ci<g ref="char:EOLhyphen"/>ty's Profit, they found themselves necessitated to quit the Design, by reason of the City's not incouraging their Proceedings, as was expected, and these Gentlemens hav<g ref="char:EOLhyphen"/>ing undertaken to erect a more General Bank, not only
+<pb n="5" facs="tcp:66227:3"/>in and about <hi>London,</hi> but through the whole Kingdom, which doth fully answer the publick end aimed at by the Doctor.</p>
+            </sp>
+            <sp>
+               <speaker>Gentleman.</speaker>
+               <p>I am inclined to believe such an Ʋndertaking may come to something, if prosecnted by Persons of so great Credit, Interest and Fortune as those you named to me. But that I may be able to make a more perfect Judgment, I must beg an Account of your thoughts and knowledge of it.</p>
+            </sp>
+            <sp>
+               <speaker>Merchant.</speaker>
+               <p>I shall readily comply with your Desire, and doubt not but to give you full satisfaction therein, and to make it clear, that it is a Just, Safe, Usefull and Profitable Design, and such as ought to be incouraged. For that thereby all sorts of Manufacture and Trade, both Forreign and Do<g ref="char:EOLhyphen"/>mestick, will be increased, the Poor Imployed, the Nati<g ref="char:EOLhyphen"/>on inriched, and Men's several Occasions at all times an<g ref="char:EOLhyphen"/>swered, without Injury, or so much as Hazard to any man who shall deal with them.</p>
+            </sp>
+            <sp>
+               <speaker>Gentleman.</speaker>
+               <p>I shall admit, that if our Manufactures be increased, our Trade will be inlarged, and the Poor imployed: But how can this be done by the <hi>Bank?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Merchant.</speaker>
+               <p>One great discouragement and stop of Trade, which will thereby be removed, is, that Tradesmen, when they have a considerable Quantity of Goods or Wares made (as Silks, Ribbons, Stuffs, Cloath, <hi>&amp;c.</hi>) They know not what to do therewith, nor how to make more untill they
+<pb n="6" facs="tcp:66227:4"/>get a Market for what they have so made; for having wrought up their Stocks, they are forced to keep their Men idle, or sell their Wares at under-rates, to maintain their Trades: whereas by the help of this <hi>Bank,</hi> they may deposit their Goods, and by raising a Credit on their own dead Stock, imploy their Servants, and increase their Trades, untill they get a good Market, without spending their time (to the neglect of their Callings) to look out Chapmen, who usually take Advantage of such men's ne<g ref="char:EOLhyphen"/>cessities, to their great Discouragement, they being many times forced to sell their Goods and Wares to loss.</p>
+            </sp>
+            <sp>
+               <speaker>Gentleman.</speaker>
+               <p>How can such by the help of this <hi>Bank</hi> enlarge their Credit, and consequently their Trades, <hi>&amp;c.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Merchant.</speaker>
+               <p>Several ways, they may deposit in the <hi>Bank</hi> Goods they cannot sell, and raise new Credit on them, of at least three or four times the value of the Goods they deposit. As for Instance, a Clothier deposits in the <hi>Bank</hi> two hun<g ref="char:EOLhyphen"/>dred pounds worth of Cloth, and receives one hundred and fifty pound in Bills of Credit, for his Cloth so deposit<g ref="char:EOLhyphen"/>ed, and then for carrying on his future Trade, agrees for six hundred pounds worth of Wool, or other Materials, and brings the same likewise into the <hi>Bank,</hi> and there de<g ref="char:EOLhyphen"/>posits that <hi>Wool,</hi> &amp;c. And on that receives further Bills of Credit thence, for four hundred and fifty pounds more, with which he pays for the same as with ready Money; whereby he hath now six hundred pound Stock for carry<g ref="char:EOLhyphen"/>ing on his Trade, <hi>Viz.</hi> one hundred and fifty pounds on his Cloth, and four hundred and fifty pounds on his Wool. The like is also true for Silks, Ribbons, and Stuffs, <hi>&amp;c.</hi>
+                  <pb n="7" facs="tcp:66227:4"/>Others have Plate, Jewels, Hangings, Linnen, or the like, lying by them, that bring no profit. On the depositing whereof, they may readily accomodate their Occasions, without hazard or trouble of their Friends, <hi>&amp;c.</hi> Others may raise a Stock on the Leases of their Houses, if Insur<g ref="char:EOLhyphen"/>ed; others on their Lands, <hi>&amp;c.</hi> By all which, and many other ways, Credit may be raised to answer all mens Oc<g ref="char:EOLhyphen"/>casions that have any thing to deposite, and whereby they may greatly inlarge their Trade, and imploy the Poor; so that to oppose this <hi>Bank,</hi> is to obstruct a common Good, that by it redounds to all men, without Preju<g ref="char:EOLhyphen"/>dice to any.</p>
+            </sp>
+            <sp>
+               <speaker>Gentleman.</speaker>
+               <p>Suppose the Party can raise such <hi>Credit</hi> by the <hi>Bank;</hi> yet he is never the better as to the carrying on his Trade, for his Goods are in the <hi>Bank,</hi> and without redeeming them, he can<g ref="char:EOLhyphen"/>not come by, or make use of them in his Trade; besides, he lives in the Countrey, or in <hi>Ireland,</hi> and his Goods are deposited in <hi>London;</hi> and in these Cases the <hi>Bank</hi> is of no use to him.</p>
+            </sp>
+            <sp>
+               <speaker>Merchant.</speaker>
+               <p>This is no obstruction as to his Trade, for he may from time to time fetch out of the <hi>Bank</hi> what Proportion he shall need, paying only for so much as he takes out; and when that is wrought up, may bring the same back again to the <hi>Bank,</hi> and fetch out more: and this he may do till he hath wrought up the whole, or until he can get a good Chap<g ref="char:EOLhyphen"/>man or Market for the Goods and Wares he hath in the <hi>Bank,</hi> which he is most likely to obtain there, where he may as readily sell them, as a Merchant doth his Goods on the <hi>Exchange;</hi> there being appointed experienced
+<pb n="8" facs="tcp:66227:5"/>Sworn <hi>Broakers</hi> to be always ready there for that pur<g ref="char:EOLhyphen"/>pose: so that such a Person may dispose of his Goods, though he lives in the Countrey, as a Merchant doth his Goods by his <hi>Factor</hi> or <hi>Exchange-Broaker;</hi> and so for his Goods being in <hi>London,</hi> when he is in the Country. And as this <hi>Bank</hi> will incourage and increase our own Manu<g ref="char:EOLhyphen"/>factures, and thereby our <hi>Exportations,</hi> so will it also our <hi>Importations:</hi> for on the <hi>Importation</hi> of any Goods, Wares, or Merchandizes (though the Merchant or Factor fails of a Market) yet may he by the help of this <hi>Bank</hi> imme<g ref="char:EOLhyphen"/>diately raise a Credit to inable him, though the first par<g ref="char:EOLhyphen"/>cel be not sold, to send for more, or other Goods, or to transinit two thirds, or three fourths of the value of those <hi>Imported,</hi> unto his Factor or Correspondent beyond the Seas, without expecting, or staying for a Market; which certainly considering the Situation of <hi>England,</hi> tends to make it the <hi>Emporium</hi> of <hi>Europe.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Gentleman.</speaker>
+               <p>If this be admitted, the Effects of the <hi>Bank</hi> may be of dan<g ref="char:EOLhyphen"/>gerous consequence to Trade; for hereby Mens Stocks will be so inlarged, and their Trades increased, that they will cloy the Markets at home, and abroad, and thereby so sink the Price of all <hi>Commodities,</hi> that Tradesmen will be undone by means of this <hi>Bank.</hi> Nor is there any necessity of inlarging Trade, for there is more already than is needful, especially for <hi>Cloth, Silks, Tin,</hi> &amp;c. So that this <hi>Bank</hi> will rather prove injurious than profitable to Trade and Tradesmen.</p>
+            </sp>
+            <sp>
+               <speaker>Merchant.</speaker>
+               <p>If the Increase of Credit will be injurious to Trade, then the Increase of Money will have the same effect, since
+<pb n="9" facs="tcp:66227:5"/>Money and Credit in this Case, are all one; and yet who complains, or is afraid of the Increase of Money: and if there be no danger of the one, there can be none of the other. Besides, men's Expences increase with their Estates and Credit; for as Riches increase, so do they that spend them. The consequence therefore that can be supposed in this Case, is truly this, that every man will have more, and will spend more, and the poor Tradesmen will live better than now they do, and the Prosperity of the Nation (which is indeed the proper end and natural effect of this <hi>Bank</hi>) will keep men from seeking their Livelihoods in Forreign Plantations; and will draw over multitudes of Tradesmen, and Artisans, from other Parts, to inhabit among us; which is at once to increase our People, and our Trade, to make us Rich and Populous, the common Interest of Prince and People. The Clothiers cannot make more Cloth than they have Wool to work; nor have Wool, but with Money, or Credit; and what they do not work up, is shipped beyond Sea, and wrought by the <hi>French</hi> and <hi>Dutch,</hi> &amp;c. and carried to Forreign Markets; by which the Poor are un-imployed, and our Trade ob<g ref="char:EOLhyphen"/>structed; for the <hi>French</hi> and <hi>Dutch</hi> undersell our Mer<g ref="char:EOLhyphen"/>chants, Workmanship and Carriage being cheaper, and In<g ref="char:EOLhyphen"/>terest lower with them than with us. But when by the help of this <hi>Bank,</hi> Interest is lowerd, and Men's Credits in<g ref="char:EOLhyphen"/>larged, our Wool, <hi>&amp;c.</hi> will be bought up and manu<g ref="char:EOLhyphen"/>factured here; and our Trade that is now carried from us, will again be recovered; and so much the rather, because the Clothier may afford to give more for his Wool, sell his Cloth for less, and yet gain more by it than now he doth. Nor is there any danger of cloying the Markets at home or abroad: or there cannot be too much Trade, where Trade ex<g ref="char:EOLhyphen"/>ceeds not the Credit of a Nation, but is maintained &amp; carri<g ref="char:EOLhyphen"/>ed on by it; for such Credit will be as much the Riches of the
+<pb n="10" facs="tcp:66227:6"/>Nation, as if so much Money in Specie were added to what there is already in it, and will increase Consumption, and occasion quick Returns in Trade, since one Nation or another will always want our Commodities; And when it shall be weekly known, what quantities of Goods of all sorts, are in the <hi>Bank</hi> ready for a Market, which cannot now be well known, Men will not be too forward to im<g ref="char:EOLhyphen"/>port more Goods of that kind, than they can vend; nor can it be denyed, but that the natural and proper effect of this <hi>Bank</hi> will be the diffusing all sorts of Trade, more than now it is, &amp; the not subjecting the same to be ingrossed, since the middle Traders may, by the help of this <hi>Bank,</hi> increase their Credit, and thereby be in a Capacity to Trade as with ready Money, as well as the great and wealthy Merchants.</p>
+            </sp>
+            <sp>
+               <speaker>Gentleman.</speaker>
+               <p>I cannot deny either the Truth or Advantages of what you urge, if the Foundation of this <hi>Credit</hi> which you mention be real, and consequently to be depended upon; which some men much doubt.</p>
+            </sp>
+            <sp>
+               <speaker>Merchant.</speaker>
+               <p>But I assure my self, that neither you, nor any impartial man, who will give himself the trouble of informing him<g ref="char:EOLhyphen"/>self of the Nature and Constitution of the <hi>Bank,</hi> can be of the number of those doubting Gentlemen; for what real Foundation of <hi>Credit</hi> can there be in the World, if Goods and Lands be not? And it is an Essential Rule of the <hi>Bank,</hi> that the common Security of themselves and others, be provided for, by never issuing Credit to the full value of any Goods or Lands; so that he that hath this Credit, hath a better Security by about one third part (which
+<pb n="11" facs="tcp:66227:6"/>will be the proportion usually observed on Goods, and about one half of the value on Lands, than if he bought the Goods and Lands at a Market Rate.</p>
+            </sp>
+            <sp>
+               <speaker>Gentleman.</speaker>
+               <p>This indeed is plain and convincing, and I see not what can reasonably be replied to it: But it is in the Power of the Bankers to issue out Bills of Credit, where they have no Fund; and who can tell, but for their own Advantage, they will do it; so that no man will be safe, that accepts this Credit.</p>
+            </sp>
+            <sp>
+               <speaker>Merchant.</speaker>
+               <p>There is nothing in the World, (by the same way of reasoning) that is either certain or safe for men to deal in: for may not the <hi>Mint-Officers</hi> put a greater Allay than is allowed, into the Gold and Silver they Coyn; and yet are the <hi>Goldsmiths</hi> discouraged from carrying their Bullion to the Tower to be Coyned? or any from imploying Porters to carry Bags of Money from one Street to ano<g ref="char:EOLhyphen"/>ther, because they may run away with it. Such Surmi<g ref="char:EOLhyphen"/>ses discourage men in their Dealings, and Transactions one with another, on a Supposition that all men are, or may be Cheats and Knaves; and consequently, not to be dealt with. I am very certain the Officers of the <hi>Bank</hi> will run as great hazard of being discovered in issuing any Bill of Credit where there is not always a Fund to make it good, as the Officers of the <hi>Mint</hi> will do in stamping base instead of <hi>Sterling-Money;</hi> for in every such Case there must concur divers Persons, <hi>Viz. Trustees, Treasurers, Store<g ref="char:EOLhyphen"/>keepers,</hi> &amp;c. who are all concerned in, and present at the issuing of every such Bill, and are under their Oaths, and give Security for the faithful discharge of their Places; besides, there are concerned herein the Honour, Credit, and Interest of the Governours of the <hi>Bank,</hi> whose Estates
+<pb n="12" facs="tcp:66227:7"/>and Reputation in the World, render them above such Fraud. By all which, I conceive it is apparent, that all men are as secure and safe in dealing with the <hi>Bank,</hi> and accepting the Bank-Bills of Credit in any Payment, as if they received new mill'd Money instead of such Bills.</p>
+            </sp>
+            <sp>
+               <speaker>Gentleman.</speaker>
+               <p>You have satisfied me in this; but I have a remaining scru<g ref="char:EOLhyphen"/>ple, that I believe you will not so easily answer. It is this, That your Bills of Credit may possibly be so well counterfeited, as that no man shall be able to know a true from a false Bill; if that can be done, what safety can there be to accept them in Payment, since no man can tell, but he is paid with a false Bill instead of a true. If you can answer this, you will go very near to satis<g ref="char:EOLhyphen"/>fie most men.</p>
+            </sp>
+            <sp>
+               <speaker>Merchant.</speaker>
+               <p>I am very well assured, Sir, that these Bills are so con<g ref="char:EOLhyphen"/>trived, that it is morally impossible that they should be counterfeited, or any one deceived, that either knows the Party from whom he receives such a Bill, or will but ask the truth thereof at the next <hi>Bank-house;</hi> which is no more than men usually do about Guineys, concerning which they enquire, and satisfie themselves, of <hi>Gold<g ref="char:EOLhyphen"/>smiths.</hi> Besides, these Bills are so made, that their be<g ref="char:EOLhyphen"/>ing Indented, is not only an equal, but possibly a greater Security than can be by Tallies; for by Printing they can<g ref="char:EOLhyphen"/>not be countefeited, but such counterfeits will be easily discovered, through the impossibility of making the In<g ref="char:EOLhyphen"/>dented Knots, and Marks to meet and answer, though they were made by the fame Ingraven Plates by which the true Bills are Printed; much less by any Plates Ingraven in Imitation of them: nor can they be counterfeited by writ<g ref="char:EOLhyphen"/>ing, for none can by Pen use that Ink with which these
+<pb n="13" facs="tcp:66227:7"/>Bills are Printed; nor take out, nor exchange any word or Letter of them. But in these and many more Cases, which I shall not mention, they will be easily and readily detect<g ref="char:EOLhyphen"/>ed. Nor can any of the Officers, if they would, come by any of the Stamps, Seals, Plates, Indenting Instruments, or Paper, to attempt the counterfeiting any Bill; those things being always under three Locks and Keys, in the Possessi<g ref="char:EOLhyphen"/>on of known Persons for Reputation, and impossible to be come at, but in the Presence of the Governours. And if any Bill be on any Paper but the <hi>Bank</hi> Paper, which is easily known, being different from all other Paper, or be defaced by cutting of the Indent, or paring the Edges thereof, such a Bill is to be refused in Payment; nor will the <hi>Bank</hi> be obliged to accept thereof.</p>
+            </sp>
+            <sp>
+               <speaker>Gentleman.</speaker>
+               <p>I cannot but admire and applaud the Care and Caution of the <hi>Bank</hi> in this particular; and confess that your Answer hath both surprised and satisfied me. But after all, you must pardon me, if I tell you, that here is nothing all this while but Printed Paper, and I cannot go to Market, or manage any Trade, nor pay any <hi>Bill of Exchange,</hi> or other debt with it, since I cannot force any man to accept thereof; nor can it be supposed that these <hi>Bills</hi> will ever be current, except men on any occasion, can turn them as readily into Money, as they can Gold into Silver.</p>
+            </sp>
+            <sp>
+               <speaker>Merchant.</speaker>
+               <p>The Governours of the <hi>Bank,</hi> in the account they have lately published; and which, I perceive, you have not yet seen, do give men unquestionable satisfaction in this case, by assuring all concerned, that they will receive these Bills in all Payments to be made unto them; as also by in<g ref="char:EOLhyphen"/>forming
+<pb n="14" facs="tcp:66227:8"/>them of Persons of all sorts of Callings that will accept those Bills in Trade; as likewise of those that will, for a very small consideration, furnish such as stand in need of Money, with Money upon those Bills, as readily as <hi>Gold-Smiths</hi> do Silver for Guinneys, and will gain more by it; for suppose a Bill should be issued to A. he pays to B. and so it goeth to the fourth, fifth, or tenth hand, who perhaps wants Money; if he comes to the <hi>Bank,</hi> he will there be informed of some Person or Persons that want Bills for Pay<g ref="char:EOLhyphen"/>ments to be made unto the <hi>Bank;</hi> and tosuch Person Bills are better than Money, by one fourth part of the Interest he is to pay; and that Person will therefore readily deliver Money for such Bill, and may afford to give more in Mo<g ref="char:EOLhyphen"/>ney than the Sum in such Bill: but if such a Person who desires to change his Bills into Money, will not give himself the trouble of coming to the <hi>Bank,</hi> he may, for one <hi>per Cent.</hi> have Money for his Bill, of those that will deal that way; and who by changing and re-changing those Bills, may more than treble the Interest of their Money, and yet no man give more than 5 <hi>l. per Cent. per An<g ref="char:EOLhyphen"/>num</hi> for such Money; and when Men shall find their Er<g ref="char:EOLhyphen"/>rour (which they will quickly do) in desiring Money ra<g ref="char:EOLhyphen"/>ther than these Bills, they will change their Minds, and ra<g ref="char:EOLhyphen"/>ther desire Bills than Money, as being more safe, and no less useful than Money. Nor will any confidering Trader re<g ref="char:EOLhyphen"/>fuse these Bills (except he hath a mind to prejudice himself in his own Trade, which he cannot avoid by so doing) for if he doth refuse these Bills in the way of his Calling, the Party goes to another that will take them, and deals with him; whereby his Trade who accepts the Bills, is increas<g ref="char:EOLhyphen"/>ed, &amp; the other's who refuses them, is diminished, or else he must deal on the Credit of the Party, rather than the Se<g ref="char:EOLhyphen"/>curity of the Bank-Bills, which have a true, solid, and sure Foundation, as was said before, and of greater value than the Bills issued; which at the worst, must be Money in a short
+<pb n="15" facs="tcp:66227:8"/>time; for when the Deposits on which such Bills are issued, are to be redeemed, the same must be done by Money or Bills; if by Bills, the Depositors must agree with such Trader for them, or pay Money into the <hi>Bank:</hi> in lieu of such Bills; which Money the <hi>Bank</hi> will more readily pay out than Bills, for that it brings no Profit or Advan<g ref="char:EOLhyphen"/>tage to the <hi>Bank.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Gentleman.</speaker>
+               <p>Well, but in case the Goods deposited in this <hi>Bank,</hi> be burnt, who shall bear the Loss of them?</p>
+            </sp>
+            <sp>
+               <speaker>Merchant.</speaker>
+               <p>The <hi>Bank</hi> must bear the loss of all the Credit issued on those Goods, which will be two thirds, or three fourth parts of the value of them; and all the Damage the De<g ref="char:EOLhyphen"/>positors can sustain in that case, is but the <hi>Overplus</hi> value of such Goods, and even that, they may (if they please) ensure for less than two Shillings the hundred pound by the month. But let me tell you, Sir, that the Goods de<g ref="char:EOLhyphen"/>posited in the <hi>Bank,</hi> are more safe in the <hi>Bank-houses</hi> than in any private House; for here they are watched both night and day, and laid up in the most secure Places that can be got; and had they not been so deposited, the Owner of them had run the risk of the whole.</p>
+            </sp>
+            <sp>
+               <speaker>Gentleman.</speaker>
+               <p>You say well: but there is one great Inconvenience that may attend this <hi>Bank;</hi> and that is, that if the <hi>Bank</hi> turn Merchant, it will be able to engross all Trade, and thereby dis<g ref="char:EOLhyphen"/>courage Merchants; which will be of very ill Consequence.</p>
+            </sp>
+            <sp>
+               <pb n="16" facs="tcp:66227:9"/>
+               <speaker>Merchant.</speaker>
+               <p>I can assure you, there is no manner of danger on that side; for besides the Resolution they have made, never to trade themselves, though always to incourage it in others, it is not at all consistent with the Being and Con<g ref="char:EOLhyphen"/>stitution of this <hi>Bank</hi> to trade; for that would impair its Credit, by subjecting it to those Accidents that have ruined others, and therefore there is no danger; for that the Nature, Reason, and Interest of the <hi>Bank,</hi> is a Security against it. But on the contrary, I am well assured, that the Governours of the <hi>Bank,</hi> without impairing the Secu<g ref="char:EOLhyphen"/>rity thereof, will readily assist and incourage any Person or Persons in any ingenious Invention, tending to the Increase and Promoting of any Linnen, Woolen, Silk, Lace, Paper, Salt, or any other useful Manufacture, and will always be ready to receive Proposals in order thereunto.</p>
+            </sp>
+            <sp>
+               <speaker>Gentleman.</speaker>
+               <p>This is very well. But whilst I think of it, let me ask you, for what reason the <hi>Bank</hi> will not meddle with Money; for in my Opinion, considering the great Security and Safety of their Constitution, they might very well and without any Damage to themselves, have secured the running Cash of ohe Nobili<g ref="char:EOLhyphen"/>ty, Gentry, Merchants and Traders, of this City and King<g ref="char:EOLhyphen"/>dom, from all hazard of Loss. That would have been a great ease, and benefit to all concerned, who know not now where to deposit their Cash securely; especially, if running Cash should prove, as some imagine, to be within the Sta<g ref="char:EOLhyphen"/>tute of <hi>Bankrupt.</hi>
+               </p>
+            </sp>
+            <sp>
+               <pb n="17" facs="tcp:66227:9"/>
+               <speaker>Merchant.</speaker>
+               <p>In this, I confess, I am of your mind; but I find, they are unwilling to meddle with Money, if they can avoid it; because Credit in Trade will circulate more than Money, and consequently will better answer their End; and should they deal in Money, the scarcity thereof (on any occasion) would perhaps, by ignorant or malicious men, be imputed to them; and as that can never be their Crime, they would also avoid the Imputation: but truly I think it too great a Nicety, considering the secure Frame of their Con<g ref="char:EOLhyphen"/>stitution, not lyable to the Frauds or Losses of private Per<g ref="char:EOLhyphen"/>sons; and therefore, tho possibly for the sake of ease and convenience, they may be induced to receive and secure the running <hi>Cash</hi> of such as shall desire it; yet dealing in Money is not the business they purpose, nor hath Mo<g ref="char:EOLhyphen"/>ney any tendency to increase their Credit.</p>
+            </sp>
+            <sp>
+               <speaker>Gentleman.</speaker>
+               <p>But will not men be discouraged from dealing with the <hi>Bank,</hi> apprehending, that such a depositing of their Goods will tend to their Discredit.</p>
+            </sp>
+            <sp>
+               <speaker>Merchant.</speaker>
+               <p>I am of a different Opinion, and do conclude, that it will rather be a mark of a low Credit, not to deal there<g ref="char:EOLhyphen"/>with; and that in a little time, whoever shall positively decline to deal with the Bank, will soon find his Errour. But this Bug-bear seems of Kin to the ill consequences that some men fancy from a Registrie of Land, whereas experience in that case evidenc<g ref="char:EOLhyphen"/>eth, as well in <hi>Scotland</hi> and <hi>Holland,</hi> as <hi>Taunton-Dean</hi> in
+<pb n="18" facs="tcp:66227:10"/>
+                  <hi>England,</hi> that there is nothing more reputable, useful and desirable, nor can it be so dis-reputable to deal with the Bank for a Man's own, as it is to borrow Money on a Bond, or Mortgage, <hi>&amp;c.</hi> and yet none whose Necessities require it, tho never so great and honourable, neglect to raise Mo<g ref="char:EOLhyphen"/>ney on those terms.</p>
+            </sp>
+            <sp>
+               <speaker>Gentleman.</speaker>
+               <p>There is one thing, I am told, the Governours purpose to do for the Poor, which is, to furnish them with Credit at <hi>6 per Cent. per Annum.</hi> Is that so great a Kindness, being the highest Interest the Law allows; or do any exact more of them now?</p>
+            </sp>
+            <sp>
+               <speaker>Merchant.</speaker>
+               <p>You shall be Judge, Sir, how worthy an Act this is, and of how great kindness to the Poor: upon a strict Inquiry made by the Governours, into the Rates of Interest usually taken by Broakers, <hi>&amp;c.</hi> of the Poor, they found by the report of a very worthy knowing Gentleman, who out of Charity had long and earnestly sollicited this business to the King and Parliament, that 33 <hi>l. per Cent. per An<g ref="char:EOLhyphen"/>num,</hi> was the lowest Rate taken of these poor men; but that many were forced to pay 60 <hi>l.</hi> or 70 <hi>l. per Cent.</hi> and some 80 <hi>l.</hi> and more; a most intollerable Oppression and Burthen, grinding the Face of the Poor: but now they will have cause to bless God, that hath put it into the hearts of these worthy Gentlemen, to find out so sea<g ref="char:EOLhyphen"/>sonable and comfortable Relief for them; which none ever before now have done.</p>
+            </sp>
+            <sp>
+               <speaker>Gentleman.</speaker>
+               <p>This generous Pity for the Poor deserves, and will certain<g ref="char:EOLhyphen"/>ly find a Reward. But pray, what's the Use or Advantage of
+<pb n="19" facs="tcp:66227:10"/>the Governours being incorporated with the <hi>Royal Fishery Company?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Merchant.</speaker>
+               <p>By this means they become Intituled to all the Privi<g ref="char:EOLhyphen"/>ledges of this Corporation, which are very many and great, and hereby likewise they will be in a Capacity of incourag<g ref="char:EOLhyphen"/>ing that great and National Advantage of the Fishing; and by a Union with that Company, will likewise increase the Fund of the <hi>Bank;</hi> and that will be a further Securi<g ref="char:EOLhyphen"/>ty to such as shall deal with it; for the Governours will advance a considerable Stock of their own proper Money in the Fishing Trade and Company. They will also im<g ref="char:EOLhyphen"/>ploy and continue therein one thousand pound <hi>per Annum.</hi> and one third part of the Profits arising by the Manage<g ref="char:EOLhyphen"/>ment of the <hi>Bank.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Gentleman.</speaker>
+               <p>Is not the <hi>Bank</hi> lyable to the Debts, Losses and Hazards that may attend the Trade of the Company.</p>
+            </sp>
+            <sp>
+               <speaker>Merchant.</speaker>
+               <p>Not in the least: for in Fact the now Company is made up, and doth mostly consist of the Governours, and other Members of the Bank, whose Interest will ingage them to prevent, as their Constitution and Agreement doth alrea<g ref="char:EOLhyphen"/>dy exempt them from all such Hazards; and the Company cannot supprize them, by any Order whatsoever, to their Prejudice; for that they are obliged to meet in the Bank<g ref="char:EOLhyphen"/>house, where the Governours of the Bank, and other Members thereof, are present, and have the Seal of the Company always in their joint Custody. But in all Proba<g ref="char:EOLhyphen"/>bility the Fishing Trade will be a Trade of Gain, and not of
+<pb n="20" facs="tcp:66227:11"/>Loss: for the Damages and Losses which the former Management of the Fishery Trade was attended withal, were not from the nature of the Trade it self (as is appa<g ref="char:EOLhyphen"/>rent by the Advantages others make thereof) but were occasioned partly for want of a due experienced Method in the Management thereof; but principally by that ill juncture of Affairs, wherein the <hi>French, Spaniards,</hi> and <hi>Dutch,</hi> were ingaged in War, and seized the Vessels and Goods of the Company.</p>
+            </sp>
+            <sp>
+               <speaker>Gentleman.</speaker>
+               <p>Admitting all this, for what you urge is at the least very probable; yet the Seal of this Company is no better Security than the Seal of another Company, or Corporation: and how many Persons have smarted, yea, been ruined by trusting Cor<g ref="char:EOLhyphen"/>porations? Which hath been in some measure the Complaint of the Widdows and Orphans of this City.</p>
+            </sp>
+            <sp>
+               <speaker>Merchant.</speaker>
+               <p>The difficulty of suing any Company, lies only in not knowing where their Effects are; in which respect this Company will differ from all others. For the Bank, as long as it continues a Bank, must and will always have suf<g ref="char:EOLhyphen"/>ficient visible Effects in their publick Bank-houses, and Ware-houses, to make good all their Ingagements, which will be every day lyable to be attached at the Suit of any man that shall conceive himself wronged, contrary to the true intent and meaning of any Obligation, Special<g ref="char:EOLhyphen"/>ty, or Instrument, under their Seal: upon which Attach<g ref="char:EOLhyphen"/>ment they will be forced to a ready Appearance for an<g ref="char:EOLhyphen"/>swering such Suit. And for this reason, if there were no other, it will be safer taking the Seal of this Company, than the Hand and Seal of any private Person what<g ref="char:EOLhyphen"/>soever.
+<pb n="21" facs="tcp:66227:11"/>To this I can truly add, that the Constitution of this Bank and Company by their Letters Patents, and Col<g ref="char:EOLhyphen"/>lateral Articles of Agreement, is such, that it is, and will be the great Interest of both, to support their Joynt, and separate Reputation to the highest degree possible. Be<g ref="char:EOLhyphen"/>sides the necessity that lies upon the Bank to be honest in this Affair; their Credit, and consequently, all their Pro<g ref="char:EOLhyphen"/>fit depends upon their keeping touch with every man; which differences this from other Companies, where eve<g ref="char:EOLhyphen"/>ry individual Member's or Trader's Reputation and Ad<g ref="char:EOLhyphen"/>vantage, consists in his Personal Transacting his own Af<g ref="char:EOLhyphen"/>fairs, in distinction from the general Affairs of the Com<g ref="char:EOLhyphen"/>pany.</p>
+            </sp>
+            <sp>
+               <speaker>Gentleman.</speaker>
+               <p>If this be the Constitution of the <hi>Bank</hi> (which I did not un<g ref="char:EOLhyphen"/>derstand before) I must confess you have, according to your promise, satisfied me, that it is both Just, Safe, Ʋseful and Profitable, and as I return you my thanks for the obliging pains you have taken, to instruct me in this excellent and highly useful Undertaking. So I heartily wish the Gentlemen who are concerned, may prosper, and be incouraged therein.</p>
+            </sp>
+            <sp>
+               <speaker>Merchant.</speaker>
+               <p>I am glad you have received the Satisfaction I proposed; but give me leave notwithstanding to add a few words more. There will arise many more Conveniencies and Advantages by this Bank, than what I have enumerated, or readily can. And as you now do, so all men will have cause to wish for the Prosperity thereof. For, by this Bank the Trade, Wealth, Honour and Safety of the Nation is established upon its own Foundation, and upon a Medi<g ref="char:EOLhyphen"/>um or Ballance within our selves, and not upon the Im<g ref="char:EOLhyphen"/>portation of Gold or Silver, or the Scarcity or Plenty of it,
+<pb n="22" facs="tcp:66227:12"/>or of any thing else imported from Forreign Nations. Our own Native Commodities will thus be mightily improv<g ref="char:EOLhyphen"/>ed, and will afford a comfortable and plentiful Subsistence, to all ingenious and industrious Persons, though they know not now how to subsist: nor will it be in the pow<g ref="char:EOLhyphen"/>er of any, by Extortion and Oppression, to make a Prey of the Necessitous. The Fishery of his Majesties Dominions, that hath hitherto been neglected, though richer than the Mines of the <hi>Indies,</hi> and now only enjoyed by Forreigners, will be improved, and all men be incouraged to become Adventurers therein; by which Trade many thousands of Families will be maintained, Seamen and Shipping in<g ref="char:EOLhyphen"/>creased, and the Trade, Navigation and Wealth of the Na<g ref="char:EOLhyphen"/>tion inlarged, his Majesties Revenue will in consequence be much increased, without the help of Taxes; and you Countrey Gentlemen will also have as great benefit and advantage of this Bank as any, for your Wool, and all Commodities will sell at good Rates, your Rents are like to be increased and well paid, and the value of your Estates greatly raised; for the Plenty of Money and cur<g ref="char:EOLhyphen"/>rent Credit, and the lowering the Rate of Interest, must ne<g ref="char:EOLhyphen"/>cessarily have that effect. To which let me only add, that the less need there is of Money (by reason of such current Credit) the more will be the increase of Money, as is manifest in <hi>Holland, Venice,</hi> and all other Places where Banks are settled, and where Credit supplies the use of Money. It now draws towards Night, and I must therefore take my leave of you, to attend a business of Importance, in which I am ingaged; and I believe it happens not amiss for you, who have reason to be tired with such a long Discourse.</p>
+            </sp>
+            <sp>
+               <pb n="23" facs="tcp:66227:12"/>
+               <speaker>Gentleman.</speaker>
+               <p>So far from tired, that I assure you, Sir, I am exceeding<g ref="char:EOLhyphen"/>ly pleased to receive so good an Account of the <hi>Bank;</hi> and fully convinced, that so Great and Good an Ʋndertaking deserves, and will find the Applause and Assistance of all Prudent, In<g ref="char:EOLhyphen"/>dustrious and Good Men; and in sine, of all such as have any value for the publick Prosperity, or regard to their own Private Advantage.</p>
+            </sp>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
